@@ -7,7 +7,6 @@ target 'Weather' do
 
   # Pods for Weather
   pod 'Alamofire', '~> 5.0'
-  pod 'iOSDropDown'
      
   target 'WeatherTests' do
     inherit! :search_paths
